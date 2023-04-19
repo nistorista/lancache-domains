@@ -1,0 +1,14 @@
+{
+	"cache_domains": [
+		{
+			"name": "wsus",
+			"description": "CDN for windows updates",
+			"domain_files": ["windowsupdates.txt"]
+		},
+		{
+			"name": "all",
+			"description": "CACHE ALL CONTENTS",
+			"domain_files": ["all.txt"]
+		}
+	]
+}
