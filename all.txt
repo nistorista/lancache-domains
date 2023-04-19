@@ -1,3 +1,2 @@
 *.kku.ac.th
 i.ytimg.com
-*.s3.amazonaws.com
